@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kurs2_polynomial2", "kurs2_polynomial2\kurs2_polynomial2.vcxproj", "{F74E9F72-86F2-4695-8499-CBA6E26256C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Debug|x64.ActiveCfg = Debug|x64
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Debug|x64.Build.0 = Debug|x64
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Debug|x86.Build.0 = Debug|Win32
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Release|x64.ActiveCfg = Release|x64
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Release|x64.Build.0 = Release|x64
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Release|x86.ActiveCfg = Release|Win32
+		{F74E9F72-86F2-4695-8499-CBA6E26256C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB54D7D8-5AA6-4ADC-96EA-ED0F1CBB0A40}
+	EndGlobalSection
+EndGlobal
